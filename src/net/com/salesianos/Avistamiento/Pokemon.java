@@ -6,7 +6,7 @@ public class Pokemon {
     private String type;
     private Double height;
     private Double weight;
-    private String description;
+    private String descriptio
  
     public Pokemon() {
         
