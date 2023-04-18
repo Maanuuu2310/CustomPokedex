@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scann;
 
 import net.com.salesianos.Avistamiento.Pokemon;
 import net.com.salesianos.Legendario.PokemonLegendario;
