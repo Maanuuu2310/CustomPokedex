@@ -1,4 +1,4 @@
-package net.com.salesianos.List;
+package net.com.salesianos.Lista;
 
 import net.com.salesianos.Avistamiento.Pokemon;
 
