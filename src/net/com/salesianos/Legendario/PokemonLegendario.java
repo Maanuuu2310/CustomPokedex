@@ -2,11 +2,11 @@ package net.com.salesianos.Legendario;
 
 import net.com.salesianos.Avistamiento.Pokemon;
 
-public class PokemonLegendario extends Pkemon {
+public class PokemonLegendario extends Pokemon {
 
     private String location;
 
-    public PokemonLegendario(String nam, String type, String location) {
+    public PokemonLegendario(String name, String type, String location) {
         super(name, type);
         this.location = location;
     }
